@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AprioriTest.iml" filepath="$PROJECT_DIR$/.idea/AprioriTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DataMiningTask1/.idea/DataMiningTask1.iml" filepath="$PROJECT_DIR$/../DataMiningTask1/.idea/DataMiningTask1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DataMiningTask2/.idea/DataMiningTask2.iml" filepath="$PROJECT_DIR$/../DataMiningTask2/.idea/DataMiningTask2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NLPwork1/.idea/NLPwork1.iml" filepath="$PROJECT_DIR$/../NLPwork1/.idea/NLPwork1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SentimentAnalysis/.idea/SentimentAnalysis.iml" filepath="$PROJECT_DIR$/../SentimentAnalysis/.idea/SentimentAnalysis.iml" />
+    </modules>
+  </component>
+</project>
