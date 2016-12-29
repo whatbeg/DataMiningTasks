@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataMiningTask3.iml" filepath="$PROJECT_DIR$/.idea/DataMiningTask3.iml" />
+      <module fileurl="file://F:/Python Project/DataMiningTask4/.idea/DataMiningTask4.iml" filepath="F:/Python Project/DataMiningTask4/.idea/DataMiningTask4.iml" />
+    </modules>
+  </component>
+</project>

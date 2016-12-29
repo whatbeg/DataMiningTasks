@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DataMiningTask4/.idea/DataMiningTask4.iml" filepath="$PROJECT_DIR$/../DataMiningTask4/.idea/DataMiningTask4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataMiningTask5.iml" filepath="$PROJECT_DIR$/.idea/DataMiningTask5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DataMiningTask6/.idea/DataMiningTask6.iml" filepath="$PROJECT_DIR$/../DataMiningTask6/.idea/DataMiningTask6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LSTMSA/.idea/LSTMSA.iml" filepath="$PROJECT_DIR$/../LSTMSA/.idea/LSTMSA.iml" />
+    </modules>
+  </component>
+</project>
